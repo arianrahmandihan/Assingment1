@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.ME {
+    color: orange;
+}
+
+.see {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(aqua, blue);
+    padding: 10px 40px;
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+footer h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+footer p {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.myname {
+    display: flex;
+}
+
+.you {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+    padding-left: 10px;
+    border-radius: 10px;
+
+}
+
+.ka {
+    width: 100px;
+    height: 100px;
+}
+
+#one {
+    background-color: aqua;
+}
+
+#two {
+    background-color: bisque;
+}
+
+#three {
+    background-color: aquamarine;
+}
+
+.ba {
+    width: 500px;
+    height: 500px;
+}
+
+.for {
+    text-align: center;
+}
+
+.caa {
+    width: 300px;
+    height: 300 px;
+}
